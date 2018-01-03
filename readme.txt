@@ -1,2 +1,2 @@
 Git is a great software
-Git live long 
+Git live long and forever
